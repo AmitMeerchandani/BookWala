@@ -5,7 +5,7 @@
     --green:linear-gradient(-90deg, #A3278F 0%, #E52F50 100%);
     /* --dark-color:#219150; */
     --dark-color:#b65268f0;
-    --black:#444;
+    /* --black:rgb(229, 47, 80);  */
     --light-color:#666;
     --border:.1rem solid rgba(0,0,0,.1);
     --border-hover:.1rem solid var(--black);
@@ -170,7 +170,7 @@ section{
 }
 
 .header .header-2 .navbar a:hover{
-    background:var(--dark-color);
+    background: #AD2766;
     /* background: #A3278F;  */
     /* background: #c988ad7e ; */
 }
